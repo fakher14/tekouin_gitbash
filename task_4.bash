@@ -1,0 +1,1 @@
+grep "root" /etc/paswwd
